@@ -1,0 +1,2 @@
+# xgb_boost_binary_classification
+xgb_boostを用いた二値分類モデル
